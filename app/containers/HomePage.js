@@ -8,6 +8,12 @@ export default class HomePage extends Component<Props> {
   props: Props;
 
   render() {
-    return <Home />;
+    return (
+      <Home
+        width={200}
+        height={200}
+        margin={{ top: 0, bottom: 0, left: 0, right: 0 }}
+      />
+    );
   }
 }

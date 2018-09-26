@@ -2,3 +2,14 @@
 # yarn lockfile v1
 
 
+"@amilajack/diskusage@^0.0.0":
+  version "0.0.0"
+  resolved "https://registry.npmjs.org/@amilajack/diskusage/-/diskusage-0.0.0.tgz#7ab992ddd1eba9e81873296163a310cfd62a6696"
+  integrity sha512-woqix7786HvxTXnEKAz6tP5L3AK0G11GFxJ9HiPCkjtcj+//qb76ZP0SiL5MmO99jjE7JZ/VANTbbzai3b7HhA==
+  dependencies:
+    nan "^2.5.0"
+
+nan@^2.5.0:
+  version "2.11.0"
+  resolved "https://registry.npmjs.org/nan/-/nan-2.11.0.tgz#574e360e4d954ab16966ec102c0c049fd961a099"
+  integrity sha512-F4miItu2rGnV2ySkXOQoA8FKz/SR2Q2sWP0sbTxNxz/tuokeC8WxOhPMcwi0qIyGtVn/rrSeLbvVkznqCdwYnw==
